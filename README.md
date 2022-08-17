@@ -1,8 +1,7 @@
-# diamond-data-visualization-in-python
+# Diamond-Data-Visualization
 
-## Objective
-
-Explore and describe a dataset of 54,000 Diamonds using Matplotlib and Seaborn
+Diamond-Data-Visualization explores and describes a dataset of 54,000
+diamonds using [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/)
 
 ### Plots Used
 
@@ -17,20 +16,22 @@ Explore and describe a dataset of 54,000 Diamonds using Matplotlib and Seaborn
 
 ### Packages and Tools Required:
 ```
-Python
-Pandas
-Numpy
-Matplotlib
-Seaborn
+Python 3
 Jupyter Notebook
-
+Matplotlib
+Numpy
+Pandas
+Seaborn
 ```
 ### Package Installation
 ```
-pip install matplotlib==3.5.1
-pip install numpy==1.21.5
-pip install pandas==1.4.2
-pip install seaborn==0.11.2
-pip install jupyter notebook==6.4.11
+pip install jupyter notebook==6.4.1*
+pip install matplotlib==3.5.*
+pip install numpy==1.21.*
+pip install pandas==1.4.*
+pip install seaborn==0.11.*
 
 ```
+### License
+
+The content of this repository is licensed under a [MIT License](https://opensource.org/licenses/MIT)
